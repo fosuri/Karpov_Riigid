@@ -1,7 +1,7 @@
 body {
     margin: 0 auto;
     width: 1240px;
-    background-color: azure;
+    background-color: bisque;
 }
 h1 {
     font-family: Tahoma;
@@ -37,5 +37,37 @@ p {
     text-align: justify;
 }
 img {
-    background-image: none;
+    width: 600px;
 }
+.menu {
+    font-family: Courier;
+    font-size: 18px;
+    font-weight: 700;
+    color: cornflowerblue;
+}
+.nav {
+    font-family: Courier;
+    background-color: rgba(241, 190, 20, 50%);
+    text-align: center;
+    border: 4px solid rgb(165, 30, 20);
+    border-style: dotted;
+    color: rgb(1, 15, 15);
+    font-size: 20px; 
+    font-weight: 700;
+}
+.flag {
+    width: 400px;
+}
+summary {
+    font-family: Courier;
+    font-size: 18px;
+    font-weight: 700;
+    color: fuchsia; 
+}
+.link {
+    font-family: Courier;
+    font-size: 18px;
+    font-weight: 700;
+    color: green;
+    border: 2px solid; 
+} 
