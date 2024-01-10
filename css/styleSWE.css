@@ -37,7 +37,7 @@ h3 {
     margin-left: 623px;
     width: 1280px;
 }
-p{
+p {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     /* background-color: rgba(0, 106, 167,30%); */
     color: white;
@@ -63,7 +63,7 @@ p{
     margin: 0 auto;
 }
 
-table td{
+table td {
     font-family: sans-serif;
     border: 3px double;
     background-color: #FFCD00;
@@ -72,7 +72,7 @@ table td{
     margin-left: 623px;
 }
 
-summary{
+summary {
     margin-left: 623px;
 }
 

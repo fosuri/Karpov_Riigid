@@ -17,7 +17,7 @@ h1 {
     
 }
 
-h2{
+h2 {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-decoration: overline;
     text-transform: uppercase;
@@ -28,13 +28,13 @@ h2{
     font-size: 30px;
 }
 
-h3{
+h3 {
     background-color: rgba(210, 105, 30, 20%);
     margin-left: 623px;
     width: 770px;
     font-size: 25px;
 }
-li{
+li {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 18px;
     
@@ -46,11 +46,11 @@ p {
     font-size: 20px;
 }
 
-img{
+img {
     border: 10px solid #362711;
     margin-left: 623px;    
 }
-td{
+td {
     font-size: 20px;
     font-family: 'Courier New', Courier, monospace;
 }
@@ -65,7 +65,7 @@ ul {
     color: rgba(132, 151, 187);
     
 }
-summary{
+summary {
     text-transform: uppercase;
     text-decoration: underline;
     font-size: 16px;
