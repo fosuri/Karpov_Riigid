@@ -1,6 +1,4 @@
 body {
-    margin: 0 auto;
-    width: 1240px;
     background-color: rgb(250, 153, 146);
 }
 
@@ -17,12 +15,21 @@ h2{
     text-transform: uppercase;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: aliceblue;
+    margin-left: 623px;
+    width: 1280px;
+
 }
 h3 {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: aliceblue;
     background-color: rgba(240, 255, 255, 20%);
-    margin-right: 440px;
+    width: 788px;
+    margin-left: 623px;
+    padding-left: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 16px;
+    font-size: 24px;
 }
 td{
     border: 2px solid;
@@ -36,21 +43,31 @@ td{
 p {
     font-family: Helvetica;
     background-color: rgba(240, 255, 255, 20%);
-    margin-left: 40px;
-    margin-right: 440px;
+    margin-left: 623px;
+    width: 1280px;
+    font-size: 18px;
+    padding-left: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 16px;
+    font-size: 20px;
+    
 }
 img {
     border: 4px solid white;
-    margin-left: 40px;
+    margin-left: 663px;
 }
 .flag {
-    margin-left: 0px;
+    margin-left: 623px;
 }
 summary {
     color: aliceblue;
     font-size: 20px;
     font-weight: 900;
+    width: 1280px;
+    margin-left: 623px;
 }
+
 .link {
     color: aliceblue;
     font-size: 16px;
@@ -58,4 +75,7 @@ summary {
 }
 hr {
     width: 1280px;
+}
+.menu {
+    margin-left: 623px;
 }

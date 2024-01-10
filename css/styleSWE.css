@@ -1,20 +1,21 @@
 body {
-    margin: 0 auto;
-    width: 1240px;
-    background-color: rgb(175, 198, 211);
+    /* background-color: rgb(175, 198, 211); */
+    background-image: linear-gradient(#eee0a6, #006AA7);
 }
 h1 {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     background-color: #006AA7;
-    color: #FFCD00;
+    color: #006AA7;
+    background-image: linear-gradient(to right, #006AA7, #FFCD00);
+    color: #ffffff;
     /* display: inline; */
     padding-left: 10px;
     padding-right: 10px;
     font-size: 60px;
     font-weight: 600;
     text-align: center;
-    margin-left: 400px;
-    margin-right: 400px;
+    width: 1280px;
+    margin-left: 623px;
 }
 
 h2 {
@@ -22,37 +23,44 @@ h2 {
     font-size: 30px;
     color: #006AA7;
     text-decoration: underline wavy #FFCD00;
-    
+    margin-left: 623px;
+    width: 1280px;
 }
 h3 {
     font-family: sans-serif;
-    color: aliceblue;
+    color: #FFCD00;
     font-size: 24px;
     text-align: center;
     background-color: #006aa73d;
     padding-top: 10px;
     padding-bottom: 10px;
+    margin-left: 623px;
+    width: 1280px;
 }
 p{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    background-color: rgba(0, 106, 167,30%);
-    color: #FFCD00;
+    /* background-color: rgba(0, 106, 167,30%); */
+    color: white;
     font-size: 20px;
     margin-left: 40px;
     margin-right: 40px;
     padding-left: 10px;
     padding-right: 10px;
+    margin-left: 623px;
+    width: 1280px;
 }
 
 .images {
     display: block;
     border: 4px solid #FFCD00;
+    margin: 0 auto;
+    
 }
 
 .imagesA {
     display: block;
     border: 4px solid #FFCD00;
-    margin: auto;
+    margin: 0 auto;
 }
 
 table td{
@@ -61,6 +69,21 @@ table td{
     background-color: #FFCD00;
     color: #006AA7;
     font-size: 22px;
-
-
+    margin-left: 623px;
 }
+
+summary{
+    margin-left: 623px;
+}
+
+.menu {
+    margin-left: 623px;
+}
+hr {
+    width: 1280px;
+}
+.flag{
+    margin-left: 623px;
+}
+
+

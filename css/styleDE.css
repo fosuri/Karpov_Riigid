@@ -1,6 +1,5 @@
 body {
-    margin: 0 auto;
-    width: 1240px;
+
     background-color: bisque;
 }
 h1 {
@@ -13,6 +12,9 @@ h1 {
     background-color: lightgoldenrodyellow;
     display: inline;
     border: 4px solid black;
+    margin-left: 623px;
+    background-image: linear-gradient(to right, #010f0f, #a51e14, #f1be14);
+    color: #ffffff;
 }
 h2 {
     font-family: Courier;
@@ -22,12 +24,16 @@ h2 {
     border-style: dashed;
     color: rgb(1, 15, 15);
     font-size: 40px;
+    width: 1280px;
+    margin-left: 623px;
+
 }
 h3 {
     font-family: Calibri;
     color: rgb(0, 0, 0);
     font-size: 25px;
     -webkit-text-stroke: 1px;
+    margin-left: 623px;
 }
 p {
     font-family: Arial;
@@ -35,34 +41,44 @@ p {
     color: black;
     font-size: 17px;
     text-align: justify;
+    width: 1280px;
+    margin-left: 623px;
+
 }
 img {
-    width: 600px;
+    margin-left: 623px;
 }
 .menu {
     font-family: Courier;
     font-size: 18px;
     font-weight: 700;
     color: cornflowerblue;
+    margin-left: 623px;
+
 }
 .nav {
     font-family: Courier;
     background-color: rgba(241, 190, 20, 50%);
-    text-align: center;
+    
     border: 4px solid rgb(165, 30, 20);
     border-style: dotted;
     color: rgb(1, 15, 15);
     font-size: 20px; 
     font-weight: 700;
+    
+
 }
 .flag {
-    width: 400px;
+    margin-left: 623px;
 }
 summary {
     font-family: Courier;
     font-size: 18px;
     font-weight: 700;
     color: fuchsia; 
+
+    margin: 0 auto;
+    width: 1280px;
 }
 .link {
     font-family: Courier;
@@ -70,4 +86,11 @@ summary {
     font-weight: 700;
     color: green;
     border: 2px solid; 
-} 
+
+    margin: 0 auto;
+    width: 1280px;
+}
+hr {
+    margin: 0 auto;
+    width: 1280px;
+}

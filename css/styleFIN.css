@@ -1,7 +1,6 @@
 body {
-    margin: 0 auto;
-    width: 1240px;
-    background-color: rgb(228, 178, 228);
+    /* background-color: rgb(228, 178, 228); */
+    background-image: linear-gradient(rgb(236, 224, 236), rgb(228, 178, 228));
 }
 
 h1 {
@@ -14,6 +13,8 @@ h1 {
     padding-right: 10px;
     display: inline;
     border: 4px dashed black;
+    margin-left: 623px;
+    
 }
 
 h2{
@@ -22,20 +23,32 @@ h2{
     text-transform: uppercase;
     color: black;
     background-color: rgba(132, 151, 187, 46%);
-    
+    margin-left: 623px;
+    width: 1280px;
+    font-size: 30px;
 }
 
 h3{
     background-color: rgba(210, 105, 30, 20%);
+    margin-left: 623px;
+    width: 770px;
+    font-size: 25px;
+}
+li{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
     
 }
-p, li{
+p {
     font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 623px;
+    width: 1280px;
+    font-size: 20px;
 }
 
 img{
     border: 10px solid #362711;
-    
+    margin-left: 623px;    
 }
 td{
     font-size: 20px;
@@ -45,19 +58,30 @@ ul {
     font-style: italic;
     border: 2px solid #362711;
     background-color: rgba(132, 151, 187, 20%);
-    padding-right: 50px;
+    margin-left: 623px;
+    width: 1234px;
 }
 .nav {
-    color: aqua;
+    color: rgba(132, 151, 187);
+    
 }
 summary{
     text-transform: uppercase;
     text-decoration: underline;
     font-size: 16px;
+    width: 1280px;
+    margin-left: 623px;
 }
 .link {
     text-transform: lowercase;
     text-decoration: underline;
     font-size: 16px;
     color: azure;
+}
+.menu {
+    margin-left: 623px;
+}
+
+hr {
+    width: 1280px;
 }
