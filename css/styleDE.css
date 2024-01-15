@@ -12,7 +12,7 @@ h1 {
     background-color: lightgoldenrodyellow;
     display: inline;
     border: 4px solid black;
-    margin-left: 623px;
+    margin-left: 280px;
     background-image: linear-gradient(to right, #010f0f, #a51e14, #f1be14);
     color: #ffffff;
 }
@@ -25,7 +25,7 @@ h2 {
     color: rgb(1, 15, 15);
     font-size: 40px;
     width: 1280px;
-    margin-left: 623px;
+    margin-left: 280px;
 
 }
 h3 {
@@ -33,7 +33,7 @@ h3 {
     color: rgb(0, 0, 0);
     font-size: 25px;
     -webkit-text-stroke: 1px;
-    margin-left: 623px;
+    margin-left: 280px;
 }
 p {
     font-family: Arial;
@@ -42,18 +42,18 @@ p {
     font-size: 17px;
     text-align: justify;
     width: 1280px;
-    margin-left: 623px;
+    margin-left: 280px;
 
 }
 img {
-    margin-left: 623px;
+    margin-left: 280px;
 }
 .menu {
     font-family: Courier;
     font-size: 18px;
     font-weight: 700;
     color: cornflowerblue;
-    margin-left: 623px;
+    margin-left: 280px;
 
 }
 .nav {
@@ -65,11 +65,13 @@ img {
     color: rgb(1, 15, 15);
     font-size: 20px; 
     font-weight: 700;
+    border-radius: 10px;
+    padding: 4px;
     
 
 }
 .flag {
-    margin-left: 623px;
+    margin-left: 280px;
 }
 summary {
     font-family: Courier;
@@ -77,8 +79,8 @@ summary {
     font-weight: 700;
     color: fuchsia; 
 
-    margin: 0 auto;
     width: 1280px;
+    margin-left: 280px;
 }
 .link {
     font-family: Courier;
@@ -93,4 +95,8 @@ summary {
 hr {
     margin: 0 auto;
     width: 1280px;
+}
+.phr {
+    background-color: black;
+    padding: 1px;
 }

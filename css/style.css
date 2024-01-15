@@ -29,8 +29,8 @@ p{
 }
 summary {
     font-size: 20px;
-    margin: 0 auto;
     width: 1280px;
+    margin-left: 280px;
 }
 th p {
     font-size: 22px;
@@ -86,18 +86,25 @@ ul {
     border: 2px solid rebeccapurple;;
     background-color: rgb(168, 110, 119);
     padding-right: 50px;
-    margin: 0 auto;
-    width: 1280px;
+    margin-left: 0px;
+    margin-right: 0px;
+    
 }
 ol {
     font-weight: bold;
     border: 2px solid rgb(192, 118, 118);
     background-color: rgb(136, 86, 184);
     padding-right: 50px;
-    margin: 0 auto;
+    padding-bottom: 30px;
+    margin-left: 230px;
+    margin-right: 230px;
     width: 1280px;
 }
 hr {
     margin: 0 auto;
     width: 1280px;
 }
+
+
+
+
