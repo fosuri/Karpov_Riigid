@@ -25,6 +25,7 @@ h2 {
     text-decoration: underline wavy #FFCD00;
     margin-left: 280px;
     width: 1280px;
+    
 }
 h3 {
     font-family: sans-serif;
@@ -76,6 +77,7 @@ table td {
 
 summary {
     margin-left: 280px;
+    font-size: 18px;
 }
 
 .phr {

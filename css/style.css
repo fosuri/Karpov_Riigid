@@ -22,7 +22,7 @@ a {
 p, h1, h2, h3, ol, summary{
     font-family: monospace;
     /* color: #F7F7F2; */
-    color: #D8D8F6;
+    color: #ececfd;
 }
 p{
     font-size: 18px;
@@ -33,9 +33,13 @@ summary {
     margin-left: 280px;
 }
 th p {
-    font-size: 22px;
+    font-size: 20px;
     font-weight: bold;
     
+}
+
+td p {
+    font-size: 16px;
 }
 .opr {
     font-size: 22px;
@@ -104,6 +108,7 @@ hr {
     margin: 0 auto;
     width: 1280px;
 }
+
 
 
 

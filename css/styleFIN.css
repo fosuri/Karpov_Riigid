@@ -48,7 +48,8 @@ p {
 
 img {
     border: 10px solid #362711;
-    margin-left: 280px;    
+    margin-left: 280px; 
+       
 }
 td {
     font-size: 20px;
@@ -68,14 +69,14 @@ ul {
 summary {
     text-transform: uppercase;
     text-decoration: underline;
-    font-size: 16px;
+    font-size: 18px;
     width: 1280px;
     margin-left: 280px;
 }
 .link {
     text-transform: lowercase;
     text-decoration: underline;
-    font-size: 16px;
+    font-size: 18px;
     color: azure;
 }
 .menu {

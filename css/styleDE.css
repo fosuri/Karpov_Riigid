@@ -47,6 +47,7 @@ p {
 }
 img {
     margin-left: 280px;
+    box-shadow: 10px 10px rgb(185, 164, 141);
 }
 .menu {
     font-family: Courier;
